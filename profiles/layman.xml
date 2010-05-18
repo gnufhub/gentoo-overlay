@@ -1,0 +1,14 @@
+q<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>gnufhub</name>
+		<description></description>
+		<homepage>http://gnufblog.de</homepage>
+		<owner type="project">
+			<email>M.Preyers@gnufblog.de</email>
+			<name>Marius Preyers</name>
+		</owner>
+		<source type="git">git://github.com/gnufhub/gentoo-overlay.git</source>
+	</repo>
+</repositories>
